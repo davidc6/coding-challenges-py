@@ -1,4 +1,4 @@
-# Just a list of solutions to some simple algorithms in Python
+# A list of solutions to some simple algorithms in Python
 
 ## Strings
 
